@@ -122,7 +122,7 @@ ul {
     text-decoration: none;
 }
 
-.oncall {
+#calendar .oncall {
     background-color: #ffe6f3;
 }
 
