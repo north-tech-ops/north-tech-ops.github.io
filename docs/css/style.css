@@ -122,19 +122,8 @@ ul {
     text-decoration: none;
 }
 
-#calendar .event .oncall {
-    clear: both;
-    display: block;
-    font-size: 13px;
-    border-radius: 4px;
-    padding: 5px;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    color: #666;
-    line-height: 14px;
+.oncall {
     background-color: #ffe6f3;
-    border: 1px solid #b5dbdc;
-    text-decoration: none;
 }
 
 #calendar .event-desc {
